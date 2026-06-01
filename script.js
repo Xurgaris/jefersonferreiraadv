@@ -24,12 +24,12 @@
   const SOLUCOES = {
     trabalhista: [
       { h: "Estabilidade da Gestante", p: "Demissão durante a gravidez é ilegal. Defendemos seu direito à estabilidade, reintegração ou indenização completa." },
-      { h: "Demissão Sem Justa Causa", p: "Análise técnica da rescisão para garantir verbas e combater demissões abusivas ou discriminatórias." },
+      { h: "Demissão Sem Justa Causa", p: "Análise técnica da rescisão para garantir verbas e combater demissões indevidas ou discriminatórias." },
       { h: "Verbas e Cálculos Rescisórios", p: "Revisão completa de FGTS, aviso prévio, férias e 13º para garantir que você receba tudo o que é seu." },
       { h: "Horas Extras e Assédio", p: "Cobrança de horas extras, adicional noturno, assédio moral e relações disfarçadas (pejotização)." },
     ],
     transito: [
-      { h: "Recurso de Multas Abusivas", p: "Análise técnica buscando erros formais, vícios processuais e irregularidades — mesmo quando você acha que errou." },
+      { h: "Recurso de Multas Indevidas", p: "Análise técnica buscando erros formais, vícios processuais e irregularidades — mesmo quando você acha que errou." },
       { h: "Suspensão de CNH", p: "Defesa técnica em processos administrativos por pontos ou infração grave, com recurso em todas as instâncias." },
       { h: "Cassação de Carteira", p: "Atuação técnica nos casos mais graves de cassação da habilitação, com defesa para reverter a decisão." },
       { h: "Condutores Profissionais", p: "Defesa para motoristas de app, caminhoneiros, taxistas e todos que dependem da CNH para o sustento." },
@@ -102,6 +102,7 @@
   /* ---------- FAQ ---------- */
   const FAQ = [
     { q: "Fui demitida grávida. O que fazer?", a: "A lei é clara: a demissão de gestante é ilegal. A trabalhadora tem direito à estabilidade desde a confirmação da gravidez até 5 meses após o parto — independentemente de a empresa saber ou não da gravidez. Você tem direito à reintegração ou ao pagamento de todos os salários e direitos do período estabilitário." },
+    { q: "Sofri um acidente de trabalho e fui demitido, o que devo fazer?", a: "Reúna toda a documentação do acidente (atestados, CAT, laudos e comunicações). Há proteções específicas para vítimas de acidente de trabalho; é possível questionar demissões, buscar indenização, estabilidade acidentária e revisão de verbas. Procure orientação imediata para avaliar prazos e medidas administrativas e judiciais adequadas ao seu caso." },
     { q: "Vale a pena recorrer de multa mesmo se eu achar que errei?", a: "Sim, e você pode se surpreender com o resultado. O auto de infração precisa seguir requisitos formais. Erros de preenchimento, ausência de assinatura, equipamentos sem aferição ou prazo incorreto podem levar ao cancelamento da multa." },
     { q: "Como funciona o atendimento? Preciso ir ao escritório?", a: "Não. Todo o atendimento é 100% online pelo WhatsApp. Você envia os documentos por mensagem, fazemos a análise completa e retornamos com a estratégia de defesa. Rápido, seguro e sem burocracia." },
     { q: "Minha CNH pode ser suspensa por acúmulo de pontos. O que fazer?", a: "Aja imediatamente — o prazo é crucial. Há um processo administrativo antes da suspensão e você tem direito à defesa. É possível recorrer das multas que geraram pontos ou buscar medidas judiciais para suspender os efeitos." },
